@@ -1,0 +1,16 @@
+; Reported rate is 0.869050
+; Which would convert to 16607.6932385, and not not 16607.69
+; Real rate is 1660769 % 1911017
+; which has no decimal representation
+; difference is ~ 0.00000169
+2024-01-30 Example issue
+  assets  -19110.17 USD @ 0.869050 CHF
+  assets   16607.69 CHF
+
+2024-01-30 Example issue
+  assets  -19110.17 USD @ 0.869050 CHF
+  assets   16607.69 CHF
+
+2024-01-30 Example issue
+  assets  -19110.17 USD @ 0.869050 CHF
+  assets   16607.69 CHF
